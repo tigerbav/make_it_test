@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460775438496",
+    "project_id": "make-it-98abf",
+    "storage_bucket": "make-it-98abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460775438496:android:4a75de8fea5f1ddeb2b1c5",
+        "android_client_info": {
+          "package_name": "com.example.make_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvKO2z9-2e7gyabj0QdNro9F_xQuo8QZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
